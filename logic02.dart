@@ -1,5 +1,5 @@
 void main() {
-  print(func(5, 5));
+  print(func(5, -4));
 }
 
 func(a, b) {

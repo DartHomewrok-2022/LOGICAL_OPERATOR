@@ -7,6 +7,6 @@ void main() {
     expect(func(11100), equals(true));
   });
   test('func(55)', () {
-    expect(func(55), equals(false));
+    expect(func(1100), equals(false));
   });
 }
